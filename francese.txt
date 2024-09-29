@@ -61,3 +61,15 @@ traslocare :: déménager [demenaʒˈe].
 trasloco :: un déménagement [demenaʒˈmɑ̃], des déménagements [dɛ demenaʒˈmɑ̃].
 tredicesimo :: treizième (m./f.), treizièmes (pl.) [tʁɛzjɛm].
 undicesimo :: onzième (m./f.), onzièmes (pl.) [ɔ̃zjɛm].
+settimana :: une semaine [səmɛn].
+fine settimana :: un week-end [wikɛnd].
+giorno :: un jour [ʒuʁ].
+mese :: un mois [mwa].
+anno :: un an [ɑ̃].
+ora :: une heure [œʁ].
+minuto :: une minute [minyt].
+secondo :: une seconde [səɡɔ̃d].
+tuttavia :: cependant [sə.pɑ̃.dɑ̃].
+durante :: pendant [pɑ̃.dɑ̃].
+leggere :: lire [liʁ] (inf.), lu [ly] (p.p.) – gruppo III.
+bere :: boire [bwaʁ] (inf.), bu [by] (p.p.) – gruppo III.
