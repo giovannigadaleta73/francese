@@ -1,67 +1,63 @@
+acceso :: allumé (m.), allumée (f.), allumés (m. pl.), allumées (f. pl.) [alyme].
 accogliente :: un accueillant [akœjˈɑ̃], une accueillante [akœjˈɑ̃t], des accueillants [dɛ akœjˈɑ̃], des accueillantes [dɛ akœjˈɑ̃t].
+aprile :: avril [avʁil].
+autunno :: l'automne (m.) [lotɔn].
 bicchiere :: un verre [vɛʁ].
 bottiglia :: une bouteille [butɛj].
+cable e presa elettrica :: un câble et une prise électrique [kabl, pʁiz elɛktʁik].
 caraffa :: une carafe [kaʁaf].
+computer e monitor :: un ordinateur et un moniteur [ɔʁdinatœʁ, mɔnitoʁ].
+coltello :: un couteau [kuto], des couteaux [dɛ kuto].
 cucchiaio :: une cuillère [kɥijɛʁ].
 cucchiaino :: une petite cuillère [pətit kɥijɛʁ].
-coltello :: un couteau [kuto], des couteaux [dɛ kuto].
-forchetta :: une fourchette [fuʁʃɛt].
+decimo :: dixième (m./f.), dixièmes (pl.) [dizjɛm].
+dicembre :: décembre [desɑ̃bʁ].
+domenica :: dimanche [dimɑ̃ʃ].
+dodicesimo :: douzième (m./f.), douzièmes (pl.) [duzjɛm].
+estate :: l'été (m.) [lete].
+febbraio :: février [fevʁije].
 finestra :: une fenêtre [fənɛtʁ].
+forchetta :: une fourchette [fuʁʃɛt].
+gennaio :: janvier [ʒɑ̃vje].
+giovedì :: jeudi [ʒødi].
+giugno :: juin [ʒɥɛ̃].
 infermiere :: un infirmier [ɛ̃fiʁˈmje], une infirmière [ɛ̃fiʁˈmjɛʁ], des infirmiers [dɛ ɛ̃fiʁˈmje], des infirmières [dɛ ɛ̃fiʁˈmjɛʁ].
+inverno :: l'hiver (m.) [livɛʁ].
 lavandino :: un évier [evje], des éviers [dɛ evje].
+luglio :: juillet [ʒɥijɛ].
+lunedì :: lundi [lœ̃di].
+magio :: mai [mɛ].
+marzo :: mars [maʁs].
+martedì :: mardi [maʁdi].
 meccanico :: un mécanicien [mekanisˈjɛ̃], une mécanicienne [mekanisˈjɛn], des mécaniciens [dɛ mekanisˈjɛ̃], des mécaniciennes [dɛ mekanisˈjɛn].
+mercoledì :: mercredi [mɛʁkʁədi].
 migliore :: un meilleur [mɛjˈœʁ], une meilleure [mɛjˈœʁ], des meilleurs [dɛ mɛjˈœʁ], des meilleures [dɛ mɛjˈœʁ].
 molto :: beaucoup [boku].
-poco :: peu [pø].
+mouse e tastiera :: une souris et un clavier [suʁi, klavje].
+nono :: neuvième (m./f.), neuvièmes (pl.) [nœvjɛm].
+novembre :: novembre [nɔvɑ̃bʁ].
+oggi :: aujourd'hui [oʒuʁdɥi].
+ottavo :: huitième (m./f.), huitièmes (pl.) [ɥitjɛm].
+ottobre :: octobre [ɔktɔbʁ].
 piatto fondo :: une assiette creuse [asjɛt kʁøz].
 piatto piano :: une assiette plate [asjɛt plat].
+poco :: peu [pø].
 preferito :: un préféré [pʁefeˈʁe], une préférée [pʁefeˈʁe], des préférés [dɛ pʁefeˈʁe], des préférées [dɛ pʁefeˈʁe].
-scrivania :: un bureau [byˈʁo], des bureaux [dɛ byˈʁo].
-sedia :: une chaise [ʃɛz].
-tavolo :: une table [tabl].
-torta :: un gâteau [ɡɑˈto], des gâteaux [dɛ ɡɑˈto].
-trasloco :: un déménagement [demenaʒˈmɑ̃], des déménagements [dɛ demenaʒˈmɑ̃].
-traslocare :: déménager [demenaʒˈe].
-tazza :: une tasse [tas].
-oggi :: aujourd'hui [oʒuʁdɥi].
+primavera :: le printemps [pʁɛ̃tɑ̃].
 primo :: premier (m.), première (f.), premiers (m. pl.), premières (f. pl.) [pʁəmje, pʁɛmjɛʁ].
-secondo :: deuxième (m./f.), deuxièmes (pl.) [døzjɛm].
-terzo :: troisième (m./f.), troisièmes (pl.) [tʁwazjɛm].
 quarto :: quatrième (m./f.), quatrièmes (pl.) [katʁijɛm].
 quinto :: cinquième (m./f.), cinquièmes (pl.) [sɛ̃kjɛm].
-sesto :: sixième (m./f.), sixièmes (pl.) [sizjɛm].
-settimo :: septième (m./f.), septièmes (pl.) [sɛtjɛm].
-ottavo :: huitième (m./f.), huitièmes (pl.) [ɥitjɛm].
-nono :: neuvième (m./f.), neuvièmes (pl.) [nœvjɛm].
-decimo :: dixième (m./f.), dixièmes (pl.) [dizjɛm].
-undicesimo :: onzième (m./f.), onzièmes (pl.) [ɔ̃zjɛm].
-dodicesimo :: douzième (m./f.), douzièmes (pl.) [duzjɛm].
-tredicesimo :: treizième (m./f.), treizièmes (pl.) [tʁɛzjɛm].
-lunedì :: lundi [lœ̃di].
-martedì :: mardi [maʁdi].
-mercoledì :: mercredi [mɛʁkʁədi].
-giovedì :: jeudi [ʒødi].
-venerdì :: vendredi [vɑ̃dʁədi].
 sabato :: samedi [samdi].
-domenica :: dimanche [dimɑ̃ʃ].
-gennaio :: janvier [ʒɑ̃vje].
-febbraio :: février [fevʁije].
-marzo :: mars [maʁs].
-aprile :: avril [avʁil].
-maggio :: mai [mɛ].
-giugno :: juin [ʒɥɛ̃].
-luglio :: juillet [ʒɥijɛ].
-agosto :: août [ut].
+sedia :: une chaise [ʃɛz].
+secondo :: deuxième (m./f.), deuxièmes (pl.) [døzjɛm].
 settembre :: septembre [sɛptɑ̃bʁ].
-ottobre :: octobre [ɔktɔbʁ].
-novembre :: novembre [nɔvɑ̃bʁ].
-dicembre :: décembre [desɑ̃bʁ].
-primavera :: le printemps [pʁɛ̃tɑ̃].
-estate :: l'été (m.) [lete].
-autunno :: l'automne (m.) [lotɔn].
-inverno :: l'hiver (m.) [livɛʁ].
-computer e monitor :: un ordinateur et un moniteur [ɔʁdinatœʁ, mɔnitoʁ].
-mouse e tastiera :: une souris et un clavier [suʁi, klavje].
-cavo e presa elettrica :: un câble et une prise électrique [kabl, pʁiz elɛktʁik].
-acceso :: allumé (m.), allumée (f.), allumés (m. pl.), allumées (f. pl.) [alyme].
+settimo :: septième (m./f.), septièmes (pl.) [sɛtjɛm].
 spento :: éteint (m.), éteinte (f.), éteints (m. pl.), éteintes (f. pl.) [etɛ̃, etɛ̃t].
+tavolo :: une table [tabl].
+tazza :: une tasse [tas].
+terzo :: troisième (m./f.), troisièmes (pl.) [tʁwazjɛm].
+torta :: un gâteau [ɡɑˈto], des gâteaux [dɛ ɡɑˈto].
+traslocare :: déménager [demenaʒˈe].
+trasloco :: un déménagement [demenaʒˈmɑ̃], des déménagements [dɛ demenaʒˈmɑ̃].
+tredicesimo :: treizième (m./f.), treizièmes (pl.) [tʁɛzjɛm].
+undicesimo :: onzième (m./f.), onzièmes (pl.) [ɔ̃zjɛm].
